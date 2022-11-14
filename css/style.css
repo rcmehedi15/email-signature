@@ -1,0 +1,13 @@
+.container{
+    margin: 200px 100px 100px 350px;
+    border: 1px solid green;
+    width: 700px;
+}
+.container table{
+    margin-top: 8px;
+    margin-left: 8px;
+}
+.borderEE{
+    margin-top: 10px;
+    margin-left: -8px;
+}
